@@ -1,0 +1,6 @@
+{
+  "name": "Personal Media Hub - Android Studio Project & Simulator",
+  "description": "Complete Android Studio project with NanoHTTPD local streaming server, Android 13+ MediaStore query permissions, responsive Web Dashboard, and live interactive device simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
